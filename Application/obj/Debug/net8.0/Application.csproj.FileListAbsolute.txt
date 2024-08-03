@@ -1,0 +1,15 @@
+C:\Backend\Authentication\Application\bin\Debug\net8.0\Application.deps.json
+C:\Backend\Authentication\Application\bin\Debug\net8.0\Application.dll
+C:\Backend\Authentication\Application\bin\Debug\net8.0\Application.pdb
+C:\Backend\Authentication\Application\bin\Debug\net8.0\Domain.dll
+C:\Backend\Authentication\Application\bin\Debug\net8.0\Domain.pdb
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Application.dll
+C:\Backend\Authentication\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Backend\Authentication\Application\obj\Debug\net8.0\Application.pdb
+C:\Backend\Authentication\Application\obj\Debug\net8.0\ref\Application.dll

@@ -1,0 +1,11 @@
+C:\Backend\Authentication\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Backend\Authentication\Domain\bin\Debug\net8.0\Domain.dll
+C:\Backend\Authentication\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\Domain.dll
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Backend\Authentication\Domain\obj\Debug\net8.0\ref\Domain.dll
